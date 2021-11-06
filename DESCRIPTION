@@ -1,0 +1,7 @@
+Package: ZoomData
+Version: 0.1-0
+Title: Query data from zoom calls, screenshots, reports
+Description: For now, this only extracts the participant list from screen shots.
+ The owner of the zoom meeting should be able to get this information from
+ the zoom Web portal. For others participants, we can use screen shots.
+Imports: Rtesseract
